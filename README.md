@@ -1,1 +1,1 @@
-# 1
+I have developed a simple learning resources app project using Vue.js. With Vue.js, I was able to create a user-friendly interface and implement responsive design to ensure a seamless experience across different devices.
